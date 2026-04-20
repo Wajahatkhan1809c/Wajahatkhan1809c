@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Wajahat
 
-<!--
-**Wajahatkhan1809c/Wajahatkhan1809c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | Full Stack | Mobile App Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 💻 I work with **ASP.NET, Laravel, and Flutter**
+* 🌐 I build web + mobile applications
+* 📱 علاقه Flutter apps banane ka (you can edit language)
+* 🎯 Currently improving my full-stack development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend
+
+* ASP.NET Core
+* REST APIs
+
+### 🔹 Frontend
+
+* Laravel (Blade)
+* HTML, CSS, JavaScript
+
+### 🔹 Mobile
+
+* Flutter (Dart)
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 Top Languages
+
+---
+
+## 📱 Projects
+
+* 🔧 ASP.NET API Based Projects
+* 🌐 Laravel Web Applications
+* 📲 Flutter Mobile Apps
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Flutter
+* Clean Architecture
+* API Security
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/Wajahatkhan1809c
+* Email: wajahat9922@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real applications 🚀
